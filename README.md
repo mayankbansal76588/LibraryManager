@@ -57,3 +57,5 @@ g++ main.cpp Book.cpp User.cpp LibraryManager.cpp -o library
 ```bash
 ./library
 ```
+### ⚠️ Important
+> Before running the program, make sure that **`books.txt`**, **`users.txt`**, and **`borrowed.txt`** are **empty** (or properly reset). This ensures correct program behavior and prevents unexpected errors.
